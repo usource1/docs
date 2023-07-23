@@ -1,6 +1,7 @@
-name: Confirm internal staff meant to post in public
+halo
+access[![Confirm internal staff meant to post in public](https://github.com/github/docs/actions/workflows/confirm-internal-staff-work-in-docs.yml/badge.svg)](https://github.com/github/docs/actions/workflows/confirm-internal-staff-work-in-docs.yml)
 
-# **What it does**: If a GitHub staff makes an issue/pull request in the open-source repo, creates an issue in the internal one to verify intent.
+# **What it does**: If a GitHub staff makes an issue/pull request in the open-source repo, creates an issue in 
 # **Why we have it**: We don't want GitHub staff accidentally making issues/pull requests in the wrong repository.
 # **Who does it impact**: GitHub staff.
 
